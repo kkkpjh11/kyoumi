@@ -2,4 +2,4 @@
 itinfoa
 sssss  
 ljk  
-[![사진](http://goo.gl/rLQtM2)]
+![사진](http://goo.gl/rLQtM2/wp.png)
