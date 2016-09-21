@@ -1,6 +1,6 @@
 # kyoumi
 
-[![사진](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj3zI-CzZ_PAhUF3YMKHQ05DB8QjRwIBw&url=https%3A%2F%2Fwww.ilbe.com%2F8590231454&psig=AFQjCNHzD9vcOufOhUGlg88p6npJ78WHjA&ust=1474517805192485)](https://youtu.be/ziOSMWAQsaI?list=PL-uRIJPCxHjcEx-fXBDnRkZVvsP-UbxGW)
+[![사진](https://ncache.ilbe.com/files/attach/new/20160813/3851543137/7290128138/8590231454/a1d0d9473e64669745d98c04856c28e8.jpg)](https://youtu.be/ziOSMWAQsaI?list=PL-uRIJPCxHjcEx-fXBDnRkZVvsP-UbxGW)
 
 
 저의꿈은 던창입니다
